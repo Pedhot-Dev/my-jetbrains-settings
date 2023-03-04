@@ -1,6 +1,5 @@
 # my-jetbrains-settings
 My JetBrains APP Settings
-Feature : 
 - Clean UI
 
 ## Plugins
